@@ -27,3 +27,8 @@ If you have a suggestion to improve an exercise, an idea for a new exercise, or 
 - Unless listed in the self-check section, do not worry about getting the exact pixel value for things like margin, padding and font-size. These exercises are intended to test your knowledge of CSS, not your ability to guess that a screenshot is using `font: sans-serif bold 16px`, or that the margin is _exactly_ `42px`.
 - You may need to add some elements to your HTML to get things into the right spot. (For the first few exercises we make it explicit when this needs to happen.)
 - You may need to add more selectors to your CSS file. The first few exercises have almost everything already done for you, but as you progress you'll find that you need to add more and more to get the correct result.
+
+
+#### Final Thoughts
+ - Whilst completing exercise 2, looking at the solution after completing the exercise, I now understand buttons are inline elements and can be converted into block by changing the display type. This acts as a solution to getting the button to appear on a second line; in my case I solved this by editing the html file to add a div within the button.container div
+ - Also now understand instead of typing out each element for padding, I can instead have two values, one being for the top and bottom and the second for left and right.
