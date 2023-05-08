@@ -15,6 +15,10 @@ body {
   justify-content: center;
 }
 
+.header{
+  font-weight: bold;
+}
+
 .modal {
   background: white;
   width: 480px;
